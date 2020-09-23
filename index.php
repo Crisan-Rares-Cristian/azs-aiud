@@ -1,3 +1,4 @@
+
  <?php include('./inc/header.php'); ?>
   <section class="card card-body">
     <img src="./img/church.jpg" alt="" class="card-img rounded">
