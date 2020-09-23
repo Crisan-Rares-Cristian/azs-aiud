@@ -1,6 +1,6 @@
 </div>
   <!-- Footer -->
-<footer class="page-footer font-small pt-4 bg-dark text-white mt-4">
+<footer class="page-footer font-small pt-4 bg-dark text-white" style="margin-top: 12rem">
 
 <!-- Footer Links -->
 <div class="container text-center text-md-left">
@@ -8,7 +8,7 @@
   <!-- Grid row -->
   <div class="row">
     <!-- Grid column -->
-    <div class="col-md-3 mb-md-0 mb-3">
+    <div class="col-md-3 mb-md-0 mb-2">
 
       <!-- Links -->
       <h5 class="text-uppercase">UTILE</h5>
@@ -30,7 +30,7 @@
     <!-- Grid column -->
 
     <!-- Grid column -->
-    <div class="col-md-3 mb-md-0 mb-3">
+    <div class="col-md-6 mb-md-0 mb-4">
 
       <!-- Links -->
       <h5 class="text-uppercase">Meniu</h5>
@@ -57,8 +57,8 @@
 <!-- Footer Links -->
 
 <!-- Copyright -->
-<div class="footer-copyright text-center py-3">© 2020 Copyright:
-  <a href="#"> AZS Aiud</a>
+<div class="footer-copyright text-center py-2">&copy; 2020 Copyright:
+  <a href="#"> AZȘ Aiud</a>
 </div>
 <!-- Copyright -->
 
